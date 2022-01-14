@@ -1,0 +1,5 @@
+"""
+• high_quality_video_convert
+• using FFmpeg (FFmpeg [Fast Forward Moving Picture Experts Group] can handle the entire process of transcoding, video and image manipulation [resizing, denoising, etc.], packaging, streaming, and playback.)
+• pip install ffmpeg-python || https://www.ffmpeg.org/download.html
+"""
