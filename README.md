@@ -1,2 +1,2 @@
 # ig-growth-bot
-IG GROWTH BOT
+Instagram Growth Bot
